@@ -35,7 +35,7 @@ Hardware: 20x STM32 BluePill/Nucleo, NVIDIA Jetson Orin Nano, MPU6050 IMUs.
 Tools: Google Colab, Logic Analyzers, STM32CubeIDE.
 
 ## Workshop Roadmap
-Node Bring-Up: Hardware initialization and I2C sensor communication.
-Signal Conditioning: Calculating filter coefficients and implementing the LPF in C.
-Data Bus Integration: Syncing the nodes with the Jetson Gateway.
-Cloud Visualization: Authenticating the Colab notebook to view the live gesture dashboard.
+* Node Bring-Up: Hardware initialization and I2C sensor communication.
+* Signal Conditioning: Calculating filter coefficients and implementing the LPF in Python.
+* Data Bus Integration: Syncing the nodes with the Jetson Gateway.
+* Cloud Visualization: Authenticating the Colab notebook to view the live gesture dashboard.
